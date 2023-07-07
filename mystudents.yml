@@ -1,0 +1,20 @@
+---
+- mystudents:
+  - name: anil
+    phno: 749227572
+    adreess:
+         doorno: 4455
+         street: 2nd
+         pincode: 500001
+  - name: sunil
+    phno: 857765564
+    adreess: 
+         doorno: 301
+         street: 1st
+         pincode: 500092
+  - name: venil
+    phno: 8754687656
+    adreess: 
+         doorno: 345
+         street: 3rd
+         pincode: 500081
